@@ -6,7 +6,7 @@ Counting how many lines in you project.
 ## Install
 
     chmod +x lines.py
-    export export PATH="path_to_lines.py:$PATH"
+    export PATH="path_to_lines.py:$PATH"
 
 ## Usage
 
