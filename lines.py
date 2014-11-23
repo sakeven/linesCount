@@ -22,7 +22,7 @@ def walk_dir(path):
 
 if __name__ == '__main__':
     if len(sys.argv) <= 1:
-        print 'argv error!\nuseage: python lines.py extionsions [path]'
+        print 'argv error!\nusage: lines.py extensions [project_path]'
         exit()
     global suffix
     suffix = sys.argv[1]
